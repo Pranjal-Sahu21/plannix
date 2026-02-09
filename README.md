@@ -2,6 +2,12 @@
 
 A simple yet elegant task management application built with vanilla HTML, CSS, and JavaScript. Plannix helps you organize your daily tasks with a clean, dark-themed interface.
 
+---
+
+![Preview](https://i.postimg.cc/pVwDmf4T/plannix.png)
+
+---
+
 ## Features
 
 ✅ **Add Tasks** - Quickly add tasks using the input field and "Add" button or press Enter  
